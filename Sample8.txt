@@ -1,2 +1,6 @@
 Testing Stash with more files.
+
 This is for testing stash with making changes in the same line after the stash.
+
+Changed.
+
